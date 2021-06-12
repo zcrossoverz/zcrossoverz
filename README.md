@@ -1,5 +1,6 @@
 ### Hi there 👋
-🌱 I’m currently learning on CTU university
+🌱 I’m currently studying on CTU university
+
 📫 How to reach me: https://facebook.com/crossoverzzz
 <!--
 **zcrossoverz/zcrossoverz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

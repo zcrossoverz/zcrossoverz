@@ -1,7 +1,20 @@
 ### Hi there 👋
-🌱 I’m currently studying on CTU university
 
-📫 How to reach me: https://facebook.com/crossoverzzz
+🔭 I’m currently working on college
+
+🌱 I’m currently learning Reactjs
+
+📫 How to reach me: *https://facebook.com/crossoverzzz*
+
+![](https://komarev.com/ghpvc/?username=zcrossoverz&color=green)
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zcrossoverz&count_private=true&show_icons=true&theme=radical)](https://github.com/zcrossoverz/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zcrossoverz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 <!--
 **zcrossoverz/zcrossoverz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

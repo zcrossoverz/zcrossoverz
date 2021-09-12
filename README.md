@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-🔭 I’m currently working on college
+🔭 I’m currently working on ...
 
-🌱 I’m currently learning Reactjs
+🌱 I’m currently learning ...
 
 📫 How to reach me: *https://facebook.com/crossoverzzz*
 

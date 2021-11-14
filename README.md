@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-🔭 I’m currently working on ...
-
-🌱 I’m currently learning ...
-
 📫 How to reach me: *https://facebook.com/crossoverzzz*
 
 ![](https://komarev.com/ghpvc/?username=zcrossoverz&color=green)

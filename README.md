@@ -2,9 +2,15 @@
 
 📫 How to reach me: *https://facebook.com/crossoverzzz*
 
-![](https://komarev.com/ghpvc/?username=zcrossoverz&color=green)
 
-### 🚀 Quick Stats
+<p align="center">
+<img alt="loficity" width="600px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif"</img>
+</p>
+
+
+
+## 🚀 Quick Stats ![](https://komarev.com/ghpvc/?username=zcrossoverz&color=green)
+
 <p align="center">
   
   <img width="450" align="center" src="https://github-readme-stats.vercel.app/api?username=zcrossoverz&count_private=true&show_icons=true&theme=react" alt="zcrossover's Github Stats" />

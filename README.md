@@ -14,7 +14,7 @@
 <p align="center">
   
   <img width="450" align="center" src="https://github-readme-stats.vercel.app/api?username=zcrossoverz&count_private=true&show_icons=true&theme=react" alt="zcrossover's Github Stats" />
-<img height="178" align="center" 
+<img height="177" align="center" 
      src="https://github-readme-stats.vercel.app/api/top-langs/?username=zcrossoverz&layout=compact&theme=react" />
 </p>
 <!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->

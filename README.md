@@ -9,7 +9,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zcrossoverz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
+<img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%">
 
 <!--
 **zcrossoverz/zcrossoverz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

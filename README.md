@@ -37,6 +37,20 @@
 </p>
 
 <!--START_SECTION:waka-->
+
+```text
+From: 22 November 2021 - To: 07 February 2023
+
+Total Time: 13 hrs 18 mins
+
+JavaScript   8 hrs 34 mins   >>>>>>>>>>>>>>>>---------   64.44 %
+CSS          2 hrs 11 mins   >>>>---------------------   16.49 %
+JSON         1 hr 10 mins    >>-----------------------   08.85 %
+TypeScript   1 hr 9 mins     >>-----------------------   08.74 %
+Bash         6 mins          -------------------------   00.78 %
+Git Config   3 mins          -------------------------   00.42 %
+```
+
 <!--END_SECTION:waka-->
 
 

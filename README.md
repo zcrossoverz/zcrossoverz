@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently studying in **CTU 👨‍🎓**
 
-- 🌱 I’m currently learning **ReactJS 😎**
+- 🌱 I’m currently learning **TypeScript 😎**
 
 - 💬 Ask me about **anything 🤣**
 

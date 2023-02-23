@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **anything 🤣**
 
-- 📫 How to reach me **ntnhans3012@gmail.com**
+- 📫 How to reach me **nhannguyen.dev3@gmail.com**
 
 
 <!-- <p align="center">

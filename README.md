@@ -2,12 +2,13 @@
 
 ###  🙆‍♂️ Overview
 
+<!--
 - 🔭 I’m currently studying in **CTU 👨‍🎓**
 
 - 🌱 I’m currently learning **Go 😎**
 
 - 💬 Ask me about **anything 🤣**
-
+-->
 - 📫 How to reach me **nhannguyen.dev3@gmail.com**
 
 
@@ -34,7 +35,6 @@
   <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" width="40" height="40" alt="tailwindcss" />
   <img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" width="40" height="40" alt="tailwindcss" />
   <img src="https://cdn.worldvectorlogo.com/logos/xampp.svg" width="40" height="40" alt="tailwindcss" />
-  <img src="https://cdn.worldvectorlogo.com/logos/wordpress-blue.svg" width="40" height="40" alt="tailwindcss" />
   
 </p>
 
@@ -60,7 +60,7 @@ CSS              3 hrs 38 mins   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 #
 
 <!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
-<img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%">
+ <!-- <img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%"> -->
 
 <div style="text-align: center;">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>

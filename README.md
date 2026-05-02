@@ -31,7 +31,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 November 2021 - To: 30 April 2026
+From: 22 November 2021 - To: 01 May 2026
 
 Total Time: 867 hrs 33 mins
 

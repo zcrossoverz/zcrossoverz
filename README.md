@@ -1,78 +1,73 @@
-# Hi <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/>, I'm Nhan
+<div align="center">
 
-###  🙆‍♂️ Overview
+# Nhan Nguyen
 
-<!--
-- 🔭 I’m currently studying in **CTU 👨‍🎓**
+### Backend Engineer · AI & Automation Builder
 
-- 🌱 I’m currently learning **Go 😎**
+Building reliable backend systems, payment solutions  
+and useful tools powered by AI.
 
-- 💬 Ask me about **anything 🤣**
--->
-- 📫 How to reach me **nhannguyen.dev3@gmail.com**
-
-
-<!-- <p align="center">
-<img alt="loficity" width="600px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif"</img>
-</p> -->
-
-
-### 🚀 Quick Stats ![](https://komarev.com/ghpvc/?username=zcrossoverz&color=green)
-
-<p align="center">
-  
-  <img width="450" align="center" src="https://github-readme-stats.vercel.app/api?username=zcrossoverz&count_private=true&show_icons=true&theme=react" alt="zcrossover's Github Stats" />
-<img height="177" align="center" 
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=zcrossoverz&layout=compact&theme=react" />
+<p>
+  <a href="mailto:nhannguyen.dev3@gmail.com">
+    <img src="https://img.shields.io/badge/Email-6366F1?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/zcrossoverz">
+    <img src="https://img.shields.io/badge/zcrossoverz-181717?style=flat-square&logo=github&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=zcrossoverz&label=views&color=8B5CF6&style=flat-square"/>
 </p>
 
-### 📊 Wakatime Stats
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:6366F1,50:8B5CF6,100:38BDF8"/>
 
-<!--START_SECTION:waka-->
+</div>
 
-```txt
-From: 22 November 2021 - To: 07 August 2026
+## 👋 About
 
-Total Time: 984 hrs 25 mins
+Backend Engineer working mainly with **Java & Spring Boot**, with a focus on
+**distributed systems, payment processing and asynchronous architectures**.
 
-TypeScript        441 hrs 1 min         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   44.80 %
-JavaScript        324 hrs 47 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   32.99 %
-Java              104 hrs 12 mins       ⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.59 %
-JSON              27 hrs 52 mins        ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.83 %
-Other             16 hrs 21 mins        ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.66 %
-```
+Outside of backend development, I build and experiment with
+**AI agents, MCP, automation workflows and developer tools**.
 
-<!--END_SECTION:waka-->
+`Backend Systems` · `Payments` · `Distributed Systems` · `AI Agents` · `Automation`
 
+## 🧩 Tech Stack
 
-#
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,redis,docker,kubernetes,linux,nginx,git,github,gitlab,jenkins,ts,nodejs&perline=14"/>
+</p>
 
-<!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
- <!-- <img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%"> -->
+<p align="center">
+  <img src="https://img.shields.io/badge/ActiveMQ_Artemis-D22128?style=flat-square"/>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude-CC785C?style=flat-square&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MCP-8B5CF6?style=flat-square"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
+</p>
 
-<div style="text-align: center;">
-    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/exceptionallyfastparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
+## 💫 Interests
+
+<table>
+<tr>
+<td align="center" width="20%">⚙️<br/><b>Backend</b></td>
+<td align="center" width="20%">💳<br/><b>Payments</b></td>
+<td align="center" width="20%">🔗<br/><b>Distributed</b></td>
+<td align="center" width="20%">✨<br/><b>AI Agents</b></td>
+<td align="center" width="20%">⚡<br/><b>Automation</b></td>
+</tr>
+</table>
+
+## 📊 Activity
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=zcrossoverz&bg_color=0d1117&color=7aa2f7&line=bb9af7&point=2ac3de&area=true&hide_border=true"/>
+</p>
+
+<div align="center">
+
+**Java · Spring Boot · Distributed Systems · AI**
+
+<sub>Building useful things, one project at a time.</sub>
+
 </div>
